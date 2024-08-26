@@ -23,7 +23,7 @@ This project is a full-stack application featuring a simple card list with produ
 
 2. Install dependencies: npm install
 
-3. Start the backend server: npm start
+3. Start the frontend server: npm start
 
 ## Using the Application
 
