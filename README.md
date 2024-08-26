@@ -1,6 +1,6 @@
-# SWE INTERNSHIP TEST - COMPLETED PROJECT
+# SWE INTERVIEW TEST - COMPLETED PROJECT
 
-This repository contains my completed solution for the Software Engineering (SWE) internship test provided by A Round Entertainment. The project showcases my ability to meet the app development requirements outlined in the assignment.
+This repository contains my completed solution for the Software Engineering (SWE) test provided by A Round Entertainment. The project showcases my ability to meet the app development requirements outlined in the assignment.
 
 ## Project Overview
 
